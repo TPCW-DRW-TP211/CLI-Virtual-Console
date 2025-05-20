@@ -1,0 +1,56 @@
+## Note: if NEEDED TO IGNOREs SOME FILES and DIRECTORIES, else DO NOT MODIFY or ADD ANYTHINGs.
+
+# Byte-compiled / Binary files
+__pycache__/
+*.py[cod]
+*$py.class
+*.exe
+# ELF executable files maybe not have file extensions, So they can't be listed here.
+
+# C/C++ extensions
+*.o
+*.so
+*.ko
+*.dll
+*.lib
+*.a
+*.dylib
+*.obj
+
+# Distribution / packaging
+.Python
+.python
+build/
+develop-eggs/
+dist/
+dists/
+.installed.cfg
+MANIFEST
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual Environments
+.venv/
+venv/
+.venv.bak/
+venv.bak/
+
+# mkdocs documentation
+/site
+
+# IDEs, DO NOT ADD and COMMIT ANY IDEs Configurations files!
+.idea/
+.vscode/
+
+# Eclipse, Eclipse generates too many configurations files - Listed separately here. Sorry!
+.project
+.classpath
+.settings/
+bin/
+*.log
+.metadata/
